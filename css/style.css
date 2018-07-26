@@ -5,7 +5,11 @@
 
 h1 {
    font-family: 'Patua One', cursive;
+   font-size: 72px;
+   text-align: center;
+   margin-top: 28px;
 }
+
 body {
    font-family: 'IBM Plex Sans', sans-serif;
 }
