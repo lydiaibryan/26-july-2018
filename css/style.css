@@ -5,7 +5,6 @@
 
 body {
    font-family: 'IBM Plex Sans', sans-serif;
-   width: 960px;
    margin: auto;
 }
 
@@ -26,7 +25,7 @@ h2 {
 
 img {
    color: #900;
-   width: 300px;
+   width: 100%;
 }
 
 p {
@@ -35,11 +34,10 @@ p {
 
 #image-item-container {
    display: flex;
-   justify-content: space-around;
 }
 
 .image-item {
-   width: 300px;
+   flex-basis: 33%;
 }
 
 .image-item--photo-credit {
