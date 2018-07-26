@@ -3,8 +3,7 @@
    padding: 0;
 }
 
-p {
-   margin: 1px;
-   border: 6px solid black;
-   padding: 10px 0;
+body {
+   height: 2000px;
+   background: black url('../img/58866db1d30cc-detail.jpg') no-repeat fixed 0 0 / cover;
 }
