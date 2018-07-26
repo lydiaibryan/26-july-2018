@@ -13,3 +13,7 @@ h1 {
 body {
    font-family: 'IBM Plex Sans', sans-serif;
 }
+img {
+   color: #900;
+   width: 300px;
+}
