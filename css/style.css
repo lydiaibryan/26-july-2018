@@ -18,3 +18,7 @@ img {
    color: #900;
    width: 300px;
 }
+
+.image-item-container {
+   display: flex;
+}
