@@ -24,5 +24,9 @@ img {
 
 .image-item-container {
    display: flex;
+   justify-content: space-around;
+}
+
+.image-item {
    width: 300px;
 }
