@@ -24,4 +24,5 @@ img {
 
 .image-item-container {
    display: flex;
+   width: 300px;
 }
