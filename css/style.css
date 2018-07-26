@@ -33,7 +33,7 @@ p {
    font-weight: 200;
 }
 
-.image-item-container {
+#image-item-container {
    display: flex;
    justify-content: space-around;
 }
